@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi I’m Harsh Parashar 👋
 
+- 💻🚀A passionate Software Developer and curious Technology Enthusiast. 
+- 🧠 Tech Stack: Python, JavaScript, React.js, HTML, CSS, Node.js, MongoDB, SQL and others  📚
+- 🛠️ Projects: 📚 Book Trading Website | 🐶 Dog Breed Classifier App | 🎬 Netflix Clone and others.
+- 🌱 Currently Learning
+     - 🧩 Advanced System Design
+     - 🔄 Data Flow
+- ⚡ Fun fact: I built a working Netflix clone just for fun — and it can actually stream videos! 😉
 <!--
 **harshparashar2112/harshparashar2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
